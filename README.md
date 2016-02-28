@@ -1,4 +1,4 @@
-# Resume
+# Resume & CV
 Contains my resume and CV for public viewing
 
 Online Profiles
