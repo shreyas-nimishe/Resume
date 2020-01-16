@@ -10,4 +10,4 @@ Online Profiles
 * [HackerRank](https://www.hackerrank.com/ingeniosus)
 * [ODE DE CODE 2.0](https://www.hackerrank.com/contests/odc2-2/leaderboard/)
 * [LinkedIn](https://www.linkedin.com/in/shreyas-nimishe/)
-* [GitHub](https://github.com/shreyas-nimishe/)
+* [Publication](https://www.emerald.com/insight/content/doi/10.1108/MMMS-10-2016-0053/full/html)
